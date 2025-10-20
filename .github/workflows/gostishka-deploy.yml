@@ -1,9 +1,9 @@
-name: PHP_CI_gostishka
+name: PHP_CI_master
 
 on:
   push:
     branches:
-      - gostishka
+      - master
 
 jobs:
   build:
